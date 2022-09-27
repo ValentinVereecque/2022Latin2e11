@@ -1,0 +1,6 @@
+<br> = saut de ligne
+<i> = italique
+<b> = gras
+</x> arreter <x>
+<img src="lien image"> afficher une image
+<a href="lien"> hypertexte
