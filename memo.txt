@@ -5,3 +5,4 @@
 <img src="lien image"> afficher une image
 <a href="lien"> hypertexte
 <img alt="" src="chemin_du_fichier/fichier.gif" /> affiche un gif (image)
+<img src="https://www.ralentirtravaux.com/lettres/lycee/images/oedipe-fabre.jpeg">
