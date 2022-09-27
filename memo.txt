@@ -4,3 +4,4 @@
 </x> arreter <x>
 <img src="lien image"> afficher une image
 <a href="lien"> hypertexte
+<img alt="" src="chemin_du_fichier/fichier.gif" /> affiche un gif (image)
